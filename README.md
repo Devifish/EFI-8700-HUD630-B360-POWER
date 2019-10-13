@@ -1,10 +1,10 @@
-# EFI-B360-AORUS-PRO-HUD630-8700 EFI 备份
-Hackintosh EFI for GIGABYTE B360 Power + i7 8700 HUD630
-使用该EFI的电脑为公司工作电脑 不保证以后更新 且用且珍惜
+# EFI-8700-HUD630-B360-POWER
+> Hackintosh EFI for GIGABYTE B360 Power + i7 8700 HUD630<br/>
+> 使用该EFI的电脑为公司工作电脑 不保证以后更新 且用且珍惜
 
 ## 支持版本
-10.14.6 (完美)
-10.15 (休眠唤醒卡死)
+* 10.14.6 (完美)
+* 10.15 (休眠唤醒卡死)
 
 ## 硬件
 
